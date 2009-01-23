@@ -1,4 +1,4 @@
-= compress_request
+= compress_response
 
 This is a plugin based on Agile Web Development with Rails' response compression technique. By default, all responses will be compressed when they can be
 
