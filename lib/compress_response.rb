@@ -1,4 +1,4 @@
-require 'compress_response/request_dont_compress'
+require 'request_dont_compress'
 
 module CompressResponse
 
